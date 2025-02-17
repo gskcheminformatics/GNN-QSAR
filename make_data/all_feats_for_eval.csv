@@ -1,0 +1,88 @@
+﻿Feature,Type,Group
+pKa,cx node,knowledge
+pKa_bool,cx node,knowledge
+pKb,cx node,knowledge
+pKb_bool,cx node,knowledge
+isDonor,node,feature
+isAcceptor,node,feature
+isAcidic,node,feature
+isBasic,node,feature
+logps,node,knowledge
+mrs,node,knowledge
+asa_atom,node,knowledge
+tpsa,node,knowledge
+estates,node,knowledge
+ringSize,node,atomic
+num_explicit_Hs,node,generic
+num_implicit_Hs,node,generic
+totalNumHs,node,generic
+hybridization,node,topological
+degrees,node,topological
+isAromatic,node,atomic
+isInRing,node,atomic
+chirality,node,topological
+formalCharge,node,atomic
+element,node,atomic
+gasteiger,node,atomic
+mass,node,knowledge
+chiralityPossible,node,topological
+ mendeleev_atomic_radius,mendeleev node,atomic
+ mendeleev_atomic_volume,mendeleev node,atomic
+ mendeleev_density,mendeleev node,atomic
+ mendeleev_dipole_polarizability,mendeleev node,atomic
+ mendeleev_electron_affinity,mendeleev node,atomic
+ mendeleev_evaporation_heat,mendeleev node,atomic
+ mendeleev_fusion_heat,mendeleev node,atomic
+ mendeleev_lattice_constant,mendeleev node,atomic
+ mendeleev_specific_heat_capacity,mendeleev node,atomic
+ mendeleev_thermal_conductivity,mendeleev node,atomic
+ mendeleev_vdw_radius,mendeleev node,atomic
+ mendeleev_covalent_radius_cordero,mendeleev node,atomic
+ mendeleev_covalent_radius_pyykko,mendeleev node,atomic
+ mendeleev_en_pauling,mendeleev node,atomic
+ mendeleev_en_allen,mendeleev node,atomic
+ mendeleev_proton_affinity,mendeleev node,atomic
+ mendeleev_gas_basicity,mendeleev node,atomic
+ mendeleev_heat_of_formation,mendeleev node,atomic
+ mendeleev_covalent_radius_bragg,mendeleev node,atomic
+ mendeleev_vdw_radius_bondi,mendeleev node,atomic
+ mendeleev_vdw_radius_truhlar,mendeleev node,atomic
+ mendeleev_vdw_radius_rt,mendeleev node,atomic
+ mendeleev_vdw_radius_batsanov,mendeleev node,atomic
+ mendeleev_vdw_radius_dreiding,mendeleev node,atomic
+ mendeleev_vdw_radius_uff,mendeleev node,atomic
+ mendeleev_vdw_radius_mm3,mendeleev node,atomic
+ mendeleev_en_ghosh,mendeleev node,atomic
+ mendeleev_vdw_radius_alvarez,mendeleev node,atomic
+ mendeleev_atomic_weight,mendeleev node,atomic
+ mendeleev_atomic_weight_uncertainty,mendeleev node,atomic
+ mendeleev_is_monoisotopic,mendeleev node,atomic
+ mendeleev_atomic_radius_rahm,mendeleev node,atomic
+ mendeleev_metallic_radius,mendeleev node,atomic
+ mendeleev_dipole_polarizability_unc,mendeleev node,atomic
+ mendeleev_molar_heat_capacity,mendeleev node,atomic
+ mendeleev_mass,mendeleev node,atomic
+ mendeleev_mass_number,mendeleev node,atomic
+ mendeleev_mass_uncertainty,mendeleev node,atomic
+ mendeleev_spin,mendeleev node,atomic
+ mendeleev_g_factor,mendeleev node,atomic
+ mendeleev_quadrupole_moment,mendeleev node,atomic
+bondType,bond,generic
+isAromatic,bond,atomic
+isConjugated,bond,topological
+isInRing,bond,atomic
+isStereo,bond,topological
+degreeCentrality,networkx node,graph
+closenessCentrality,networkx node,graph
+betweennessCentrality,networkx node,graph
+katzCentrality,networkx node,graph
+fccCentrality,networkx node,graph
+fbcCentrality,networkx node,graph
+loadCentrality,networkx node,graph
+harmonicCentrality,networkx node,graph
+conHole,networkx node,graph
+degree,networkx node,graph
+ecc,networkx node,graph
+baryCenter,networkx node,graph
+center,networkx node,graph
+periphery,networkx node,graph
